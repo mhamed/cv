@@ -1,27 +1,27 @@
 {
   "basics": {
-    "name": "Andy Clarke",
-    "label": "Technical Leader",
+    "name": "Mhamed Hmimid",
+    "label": "Technical webmaster",
     "picture": "",
-    "email": "andrew.t.clarke(at)gmail.com",
-    "website": "http://www.clarkie.io",
+    "email": "mhamed.hmimid(at)gmail.com",
+    "website": "http://www.miticmeeting.com",
     "location": {
-      "city": "London",
-      "countryCode": "UK"
+      "city": "la spezia",
+      "countryCode": "IT"
     },
     "profiles": [{
         "network": "Github",
-        "url": "https://github.com/clarkie"
+        "url": "https://github.com/mhamed"
       },
       {
         "network": "LinkedIn",
         "username": "",
-        "url": "https://linkedin.com/in/clarkie1"
+        "url": "https://linkedin.com/in/mhamed"
       }
     ]
   },
   "work": [{
-      "company": "Tido Music",
+      "company": "mitic",
       "position": "Chief Technical Officer",
       "website": "http://tido-music.com",
       "startDate": "2016-08-01",
